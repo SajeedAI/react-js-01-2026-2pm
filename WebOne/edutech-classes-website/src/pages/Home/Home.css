@@ -1,0 +1,15 @@
+.hero {
+  text-align: center;
+  padding: 80px;
+  background: linear-gradient(to right, #1976d2, #42a5f5);
+  color: white;
+}
+
+.hero button {
+  padding: 12px 25px;
+  border: none;
+  background: white;
+  color: #1976d2;
+  font-weight: bold;
+  border-radius: 6px;
+}

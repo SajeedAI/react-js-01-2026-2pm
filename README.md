@@ -84,3 +84,18 @@ config
 middlewares
 utils
 .env
+
+
+# Props and States
+==================
+probs = data passed from parent component -> child component
+        they are read-only (child cannot change them)
+
+states = data managed inside a component
+         it can change using setState(or useState in functional component)
+
+Step 1: Created the project 
+Step 2: Create Components Folder
+Step 3: Create Student.js file in Components folder
+Step 4: import Student in App.js
+
