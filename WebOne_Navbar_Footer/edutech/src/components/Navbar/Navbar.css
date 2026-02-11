@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+    white-space: nowrap;
+    color: white;
+    background: #dd8a36;
+}
+
+.nav-links{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    flex-wrap: nowrap;
+}
+
+.nav-links li{
+    display: inline-flex;
+}
+
+.nav-links a{
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
