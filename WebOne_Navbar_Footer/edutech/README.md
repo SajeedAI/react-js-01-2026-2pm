@@ -69,11 +69,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### We have created Navbar and Footer in this example
-1.Created the Project (npx create-react-app edutech)
-2.Installed the routing (npm install react-router-dom)
-3.Created the components folders like Navbar and Footer and Routes
-4.In App.js we modified to the Latest Components with (Navbar and Footer)
-5.In AppRoute.js we just imported the module of Routes
-6.In index.js we imported the BrowserRouter instead of reportWebVitals
-7.We created the files like Navbar.js and Footer.js with source code
+### We Have Created Navbar and Footer in This Example
+
+1. Created the project using:  
+   npx create-react-app edutech
+
+2. Installed React Router using:  
+   npm install react-router-dom
+
+3. Created component folders like:  
+   - Navbar  
+   - Footer  
+   - Routes  
+
+4. Modified App.js to include the latest components (Navbar and Footer)
+
+5. In AppRoute.js, imported and configured the Routes module
+
+6. In index.js, imported BrowserRouter instead of reportWebVitals
+
+7. Created the files:  
+   - Navbar.js  
+   - Footer.js  
+   with the required source code
+
